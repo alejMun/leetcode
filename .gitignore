@@ -1,0 +1,7 @@
+*.out
+*.pyc
+
+build/
+__pycache__/
+data/
+CMakeFiles/
